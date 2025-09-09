@@ -19,6 +19,11 @@
         <mxCell id="DRtRM1xtTHwulJozDbjA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJjMT2hMmGZ555Tr6Kql-4" target="DRtRM1xtTHwulJozDbjA-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DRtRM1xtTHwulJozDbjA-8" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DRtRM1xtTHwulJozDbjA-5">
+          <mxGeometry x="-0.0427" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uJjMT2hMmGZ555Tr6Kql-4" value="判断整数是否合理" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="205" y="210" width="170" height="80" as="geometry" />
         </mxCell>
@@ -26,7 +31,7 @@
           <mxGeometry x="230" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DRtRM1xtTHwulJozDbjA-6" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="240" y="830" width="100" height="60" as="geometry" />
+          <mxGeometry x="240" y="720" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DRtRM1xtTHwulJozDbjA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DRtRM1xtTHwulJozDbjA-4" target="DRtRM1xtTHwulJozDbjA-6">
           <mxGeometry relative="1" as="geometry" />
