@@ -56,8 +56,16 @@
             <mxPoint x="340.11764705882354" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BSuuWKgfJK4sGJCRTrhW-19" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BSuuWKgfJK4sGJCRTrhW-18">
+          <mxGeometry x="-0.0692" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BSuuWKgfJK4sGJCRTrhW-15" value="判断字符串长度" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="650" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BSuuWKgfJK4sGJCRTrhW-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
