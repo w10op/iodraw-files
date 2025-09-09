@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sSI_hFzutzv-8syJbPqV-7" value="输出提示" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="305" y="585" width="210" height="45" as="geometry" />
+          <mxGeometry x="305" y="730" width="210" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
