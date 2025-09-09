@@ -22,7 +22,7 @@
         <mxCell id="uJjMT2hMmGZ555Tr6Kql-4" value="判断整数是否合理" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="205" y="210" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DRtRM1xtTHwulJozDbjA-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DRtRM1xtTHwulJozDbjA-4" value="输出不符合要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
