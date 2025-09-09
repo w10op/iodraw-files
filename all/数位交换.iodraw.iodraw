@@ -44,7 +44,7 @@
           <mxGeometry x="380" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DRtRM1xtTHwulJozDbjA-6" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="250" y="750" width="100" height="60" as="geometry" />
+          <mxGeometry x="235" y="840" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DRtRM1xtTHwulJozDbjA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DRtRM1xtTHwulJozDbjA-4" target="DRtRM1xtTHwulJozDbjA-6">
           <mxGeometry relative="1" as="geometry" />
@@ -53,10 +53,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DRtRM1xtTHwulJozDbjA-9" value="交换个位和百位&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="230" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DRtRM1xtTHwulJozDbjA-12" value="输出交换结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="540" width="110" height="45" as="geometry" />
+          <mxGeometry x="235" y="520" width="110" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
