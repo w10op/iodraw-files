@@ -63,10 +63,15 @@
         <mxCell id="MamZAPfa95QhUukDRZ4D-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EcCK3UxtyVTjQZDZtIV4-85" target="EcCK3UxtyVTjQZDZtIV4-88">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="670" y="438" />
-              <mxPoint x="670" y="940" />
+              <mxPoint x="580" y="438" />
+              <mxPoint x="580" y="940" />
               <mxPoint x="370" y="940" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MamZAPfa95QhUukDRZ4D-2" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MamZAPfa95QhUukDRZ4D-1">
+          <mxGeometry x="-0.1206" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
