@@ -51,8 +51,8 @@
         <mxCell id="BSuuWKgfJK4sGJCRTrhW-14" value="调用递归函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BSuuWKgfJK4sGJCRTrhW-15" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="650" width="110" height="80" as="geometry" />
+        <mxCell id="BSuuWKgfJK4sGJCRTrhW-15" value="判断字符串长度" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="650" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
