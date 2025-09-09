@@ -10,7 +10,7 @@
         <mxCell id="7tGT908TTKPJYS0pT_Ud-2" value="输入n值" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7tGT908TTKPJYS0pT_Ud-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7tGT908TTKPJYS0pT_Ud-3" value="定义整型变量n,i" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7tGT908TTKPJYS0pT_Ud-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
