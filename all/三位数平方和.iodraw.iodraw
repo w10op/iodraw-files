@@ -64,8 +64,8 @@
         <mxCell id="CxfwhGvI9G9Dut4-vdP8-21" value="输出结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CxfwhGvI9G9Dut4-vdP8-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="CxfwhGvI9G9Dut4-vdP8-24" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;Courier New&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;获取个位数字&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
