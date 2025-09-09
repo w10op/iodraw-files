@@ -25,6 +25,9 @@
         <mxCell id="DRtRM1xtTHwulJozDbjA-4" value="输出不符合要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DRtRM1xtTHwulJozDbjA-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="830" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
