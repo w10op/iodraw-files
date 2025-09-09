@@ -24,6 +24,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="DRtRM1xtTHwulJozDbjA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uJjMT2hMmGZ555Tr6Kql-4" target="DRtRM1xtTHwulJozDbjA-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uJjMT2hMmGZ555Tr6Kql-4" value="判断整数是否合理" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="205" y="210" width="170" height="80" as="geometry" />
         </mxCell>
