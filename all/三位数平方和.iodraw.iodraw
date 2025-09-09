@@ -49,6 +49,11 @@
         <mxCell id="CxfwhGvI9G9Dut4-vdP8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CxfwhGvI9G9Dut4-vdP8-14" target="CxfwhGvI9G9Dut4-vdP8-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CxfwhGvI9G9Dut4-vdP8-27" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CxfwhGvI9G9Dut4-vdP8-25">
+          <mxGeometry x="-0.2933" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CxfwhGvI9G9Dut4-vdP8-14" value="temp&amp;gt;0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="235" y="550" width="180" height="100" as="geometry" />
         </mxCell>
@@ -66,6 +71,9 @@
         </mxCell>
         <mxCell id="CxfwhGvI9G9Dut4-vdP8-24" value="获取个位数字，累加平方和&lt;div&gt;temp/=10&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CxfwhGvI9G9Dut4-vdP8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CxfwhGvI9G9Dut4-vdP8-24" target="CxfwhGvI9G9Dut4-vdP8-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
