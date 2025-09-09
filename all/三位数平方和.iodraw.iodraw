@@ -51,11 +51,13 @@
         <mxCell id="BSuuWKgfJK4sGJCRTrhW-14" value="调用递归函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="525" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BSuuWKgfJK4sGJCRTrhW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BSuuWKgfJK4sGJCRTrhW-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340.11764705882354" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BSuuWKgfJK4sGJCRTrhW-15" value="判断字符串长度" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="650" width="110" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="BSuuWKgfJK4sGJCRTrhW-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
