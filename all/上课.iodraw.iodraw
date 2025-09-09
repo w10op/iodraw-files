@@ -33,9 +33,11 @@
         <mxCell id="EcCK3UxtyVTjQZDZtIV4-88" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="320" y="1120" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EcCK3UxtyVTjQZDZtIV4-92" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;int &lt;/span&gt;i = &lt;span style=&quot;color:#2aacb8;&quot;&gt;2&lt;/span&gt;; i &amp;lt;= Math.&lt;span style=&quot;font-style:italic;&quot;&gt;sqrt&lt;/span&gt;(x)&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="310" y="525" width="120" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="int i = 2; i &lt;= Math.sqrt(x)" link="int i = 2; i &lt;= Math.sqrt(x)" id="EcCK3UxtyVTjQZDZtIV4-92">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+            <mxGeometry x="310" y="525" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="EcCK3UxtyVTjQZDZtIV4-94" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="360" y="488" width="40" height="30" as="geometry" />
         </mxCell>
