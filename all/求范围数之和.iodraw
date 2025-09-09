@@ -27,13 +27,11 @@
         <mxCell id="UXXkBLnCArF8ybTu-UIK-4" value="判断是否符合（0&amp;lt;n&amp;lt;m&amp;lt;20）条件" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="282.5" y="260" width="235" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UXXkBLnCArF8ybTu-UIK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UXXkBLnCArF8ybTu-UIK-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390.1428571428571" y="889.9999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UXXkBLnCArF8ybTu-UIK-10" value="输入错误" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UXXkBLnCArF8ybTu-UIK-14" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="900" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
