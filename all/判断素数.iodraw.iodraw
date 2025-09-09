@@ -25,6 +25,11 @@
         <mxCell id="7tGT908TTKPJYS0pT_Ud-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7tGT908TTKPJYS0pT_Ud-7" target="7tGT908TTKPJYS0pT_Ud-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7tGT908TTKPJYS0pT_Ud-15" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7tGT908TTKPJYS0pT_Ud-12">
+          <mxGeometry x="0.04" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7tGT908TTKPJYS0pT_Ud-7" value="i&amp;lt;0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="1000" width="80" height="80" as="geometry" />
         </mxCell>
@@ -33,6 +38,14 @@
         </mxCell>
         <mxCell id="7tGT908TTKPJYS0pT_Ud-8" value="算i阶乘，sum统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7tGT908TTKPJYS0pT_Ud-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7tGT908TTKPJYS0pT_Ud-9" target="7tGT908TTKPJYS0pT_Ud-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="1260" />
+              <mxPoint x="200" y="1040" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="7tGT908TTKPJYS0pT_Ud-9" value="i++" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="1230" width="120" height="60" as="geometry" />
@@ -47,6 +60,11 @@
               <mxPoint x="470" y="1320" />
               <mxPoint x="354" y="1320" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7tGT908TTKPJYS0pT_Ud-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7tGT908TTKPJYS0pT_Ud-11">
+          <mxGeometry x="-0.2293" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
