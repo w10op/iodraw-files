@@ -16,6 +16,11 @@
         <mxCell id="CxfwhGvI9G9Dut4-vdP8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CxfwhGvI9G9Dut4-vdP8-5" target="CxfwhGvI9G9Dut4-vdP8-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CxfwhGvI9G9Dut4-vdP8-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CxfwhGvI9G9Dut4-vdP8-11">
+          <mxGeometry x="-0.0533" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CxfwhGvI9G9Dut4-vdP8-5" value="判断三位数是否符合范围" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="247.5" y="210" width="185" height="100" as="geometry" />
         </mxCell>
@@ -30,7 +35,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CxfwhGvI9G9Dut4-vdP8-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CxfwhGvI9G9Dut4-vdP8-10" value="初始化sum=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
