@@ -53,16 +53,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CxfwhGvI9G9Dut4-vdP8-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CxfwhGvI9G9Dut4-vdP8-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="930" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CxfwhGvI9G9Dut4-vdP8-20" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CxfwhGvI9G9Dut4-vdP8-19">
-          <mxGeometry x="0.2987" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CxfwhGvI9G9Dut4-vdP8-14" value="temp&amp;gt;0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="235" y="550" width="180" height="100" as="geometry" />
         </mxCell>
@@ -71,6 +61,9 @@
         </mxCell>
         <mxCell id="CxfwhGvI9G9Dut4-vdP8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CxfwhGvI9G9Dut4-vdP8-3" target="CxfwhGvI9G9Dut4-vdP8-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxfwhGvI9G9Dut4-vdP8-21" value="输出结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
