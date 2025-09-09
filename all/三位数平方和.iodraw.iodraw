@@ -16,7 +16,7 @@
         <mxCell id="BSuuWKgfJK4sGJCRTrhW-2" value="输入一个五个字符串" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="242" y="220" width="196" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BSuuWKgfJK4sGJCRTrhW-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BSuuWKgfJK4sGJCRTrhW-7" value="判断字符串条件" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="350" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
