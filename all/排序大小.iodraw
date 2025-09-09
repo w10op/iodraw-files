@@ -43,7 +43,7 @@
         <mxCell id="nZkSMPZ0cSaIzFcbLVP3-15" value="nums[j]=nums[j+1]" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="349" y="505" width="129" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nZkSMPZ0cSaIzFcbLVP3-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nZkSMPZ0cSaIzFcbLVP3-17" value="交换位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="351" y="640" width="126" height="40" as="geometry" />
         </mxCell>
       </root>
