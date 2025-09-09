@@ -24,6 +24,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="DRtRM1xtTHwulJozDbjA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uJjMT2hMmGZ555Tr6Kql-4" target="DRtRM1xtTHwulJozDbjA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DRtRM1xtTHwulJozDbjA-15" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DRtRM1xtTHwulJozDbjA-14">
+          <mxGeometry x="0.1942" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uJjMT2hMmGZ555Tr6Kql-4" value="判断整数是否合理" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="205" y="210" width="170" height="80" as="geometry" />
         </mxCell>
