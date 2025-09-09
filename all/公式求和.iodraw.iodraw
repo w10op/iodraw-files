@@ -19,6 +19,12 @@
         <mxCell id="Mp-FkGW6FBJZ7T2mWuO2-4" value="判断n数据是否符合" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="317.5" y="180" width="125" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Mp-FkGW6FBJZ7T2mWuO2-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="920" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mp-FkGW6FBJZ7T2mWuO2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mp-FkGW6FBJZ7T2mWuO2-4" target="Mp-FkGW6FBJZ7T2mWuO2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
