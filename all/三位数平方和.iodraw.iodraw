@@ -15,13 +15,11 @@
             <mxPoint x="340.11764705882354" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSuuWKgfJK4sGJCRTrhW-6" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BSuuWKgfJK4sGJCRTrhW-4">
-          <mxGeometry x="-0.0045" y="-2" relative="1" as="geometry">
-            <mxPoint x="-2" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BSuuWKgfJK4sGJCRTrhW-2" value="输入一个五个字符串" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="242" y="220" width="196" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BSuuWKgfJK4sGJCRTrhW-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="410" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
