@@ -44,7 +44,7 @@
         <mxCell id="UXXkBLnCArF8ybTu-UIK-14" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="340" y="910" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UXXkBLnCArF8ybTu-UIK-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UXXkBLnCArF8ybTu-UIK-17" value="定义sum=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
