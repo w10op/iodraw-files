@@ -31,6 +31,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="7tGT908TTKPJYS0pT_Ud-24" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7tGT908TTKPJYS0pT_Ud-23">
+          <mxGeometry x="-0.0671" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7tGT908TTKPJYS0pT_Ud-4" value="判断n值大于1且小于10" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="304" y="670" width="100" height="100" as="geometry" />
         </mxCell>
