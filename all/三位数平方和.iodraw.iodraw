@@ -38,7 +38,7 @@
         <mxCell id="CxfwhGvI9G9Dut4-vdP8-10" value="初始化sum=0，temp&lt;div&gt;=n&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CxfwhGvI9G9Dut4-vdP8-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="CxfwhGvI9G9Dut4-vdP8-14" value="temp&amp;gt;0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="250" y="550" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CxfwhGvI9G9Dut4-vdP8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CxfwhGvI9G9Dut4-vdP8-10" target="CxfwhGvI9G9Dut4-vdP8-14">
