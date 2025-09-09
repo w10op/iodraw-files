@@ -19,6 +19,15 @@
         <mxCell id="sSI_hFzutzv-8syJbPqV-3" value="输出提示，输入n" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="315" y="320" width="190" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="sSI_hFzutzv-8syJbPqV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sSI_hFzutzv-8syJbPqV-5" target="sSI_hFzutzv-8syJbPqV-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="505" y="470" />
+              <mxPoint x="505" y="680" />
+              <mxPoint x="410" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sSI_hFzutzv-8syJbPqV-5" value="n&amp;gt;0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="335" y="420" width="150" height="100" as="geometry" />
         </mxCell>
