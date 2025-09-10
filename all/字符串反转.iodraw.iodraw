@@ -51,16 +51,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="22xiPnUTffNRzYPmrbLe-10" value="提示输入错误" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="22xiPnUTffNRzYPmrbLe-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="22xiPnUTffNRzYPmrbLe-14" target="22xiPnUTffNRzYPmrbLe-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="22xiPnUTffNRzYPmrbLe-14" value="用stringbuffer.reverse反转字符串" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="22xiPnUTffNRzYPmrbLe-19" value="输出反转后的字符串" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="22xiPnUTffNRzYPmrbLe-21" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="480" y="790" width="100" height="60" as="geometry" />
