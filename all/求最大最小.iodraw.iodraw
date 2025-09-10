@@ -62,6 +62,9 @@
         <mxCell id="O6zmtuFgvWm3FMoOtooi-19" value="循环i从1到n-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="1020" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="O6zmtuFgvWm3FMoOtooi-20" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1100" width="130" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
