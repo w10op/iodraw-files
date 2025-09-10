@@ -16,8 +16,8 @@
         <mxCell id="y0o8hidx7d-68F4l_20V-2" value="输入一个字符串" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="90" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y0o8hidx7d-68F4l_20V-4" value="[获取字符串长度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="269" y="160" width="140" height="40" as="geometry" />
+        <mxCell id="y0o8hidx7d-68F4l_20V-4" value="获取字符串长度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="160" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
