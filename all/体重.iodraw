@@ -170,6 +170,9 @@
         <mxCell id="HzN0MrrhUGkQy3RDOo2--47" value="循环输出所有学生信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="1490" width="125" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="HzN0MrrhUGkQy3RDOo2--49" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1570" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
