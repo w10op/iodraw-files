@@ -19,6 +19,9 @@
         <mxCell id="y0o8hidx7d-68F4l_20V-6" value="将str反转给rts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="160" width="140" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="y0o8hidx7d-68F4l_20V-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
