@@ -8,7 +8,7 @@
           <mxGeometry x="470" y="20" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="22xiPnUTffNRzYPmrbLe-3" value="输入一个字符串（长度不超过·25个字符）" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="402" y="150" width="256" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
