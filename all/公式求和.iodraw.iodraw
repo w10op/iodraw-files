@@ -58,6 +58,9 @@
         <mxCell id="s4NdWZv3zn-85GzFYf5Y-3" value="i&amp;lt;=n" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="500" width="110" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="s4NdWZv3zn-85GzFYf5Y-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="670" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
