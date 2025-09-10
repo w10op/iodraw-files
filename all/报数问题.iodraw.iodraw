@@ -28,10 +28,13 @@
         <mxCell id="7XKxPyAEg_ZSq-yuQn7w-6" value="设置当前位置索引为0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7XKxPyAEg_ZSq-yuQn7w-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7XKxPyAEg_ZSq-yuQn7w-8" target="7XKxPyAEg_ZSq-yuQn7w-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7XKxPyAEg_ZSq-yuQn7w-8" value="剩余人数&amp;gt;1?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="530" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7XKxPyAEg_ZSq-yuQn7w-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7XKxPyAEg_ZSq-yuQn7w-10" value="&amp;nbsp;currentIndex = (currentIndex + m - 1) % people.size();" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="660" width="270" height="90" as="geometry" />
         </mxCell>
       </root>
