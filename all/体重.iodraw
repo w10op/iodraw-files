@@ -62,6 +62,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HzN0MrrhUGkQy3RDOo2--26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HzN0MrrhUGkQy3RDOo2--17" target="HzN0MrrhUGkQy3RDOo2--25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HzN0MrrhUGkQy3RDOo2--27" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HzN0MrrhUGkQy3RDOo2--26">
+          <mxGeometry x="-0.48" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HzN0MrrhUGkQy3RDOo2--17" value="BMI&amp;gt;=25?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="860" width="140" height="80" as="geometry" />
         </mxCell>
