@@ -81,6 +81,9 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="m9SAKXmGuXNSpnh_phW2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="m9SAKXmGuXNSpnh_phW2-27" target="m9SAKXmGuXNSpnh_phW2-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m9SAKXmGuXNSpnh_phW2-27" value="验证搬砖数m是否=4*男+3*女+0.5*小孩" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="272.5" y="1010" width="235" height="80" as="geometry" />
         </mxCell>
@@ -88,7 +91,7 @@
           <mxGeometry x="330" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m9SAKXmGuXNSpnh_phW2-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
