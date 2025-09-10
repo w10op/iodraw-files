@@ -42,13 +42,11 @@
         <mxCell id="m9SAKXmGuXNSpnh_phW2-13" value="woman=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m9SAKXmGuXNSpnh_phW2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="m9SAKXmGuXNSpnh_phW2-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390.28571428571445" y="769.9999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="m9SAKXmGuXNSpnh_phW2-19" value="woman&amp;lt;n" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="620" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m9SAKXmGuXNSpnh_phW2-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
