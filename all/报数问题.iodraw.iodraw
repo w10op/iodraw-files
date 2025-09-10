@@ -37,6 +37,9 @@
         <mxCell id="7XKxPyAEg_ZSq-yuQn7w-10" value="计算移除的位置&lt;div&gt;&amp;nbsp;currentIndex = (currentIndex + m - 1) % people.size()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="263.5" y="690" width="355" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="7XKxPyAEg_ZSq-yuQn7w-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="381" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
