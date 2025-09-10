@@ -37,8 +37,8 @@
         <mxCell id="HzN0MrrhUGkQy3RDOo2--12" value="计算BMI=体重/身高的平方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="620" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HzN0MrrhUGkQy3RDOo2--14" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="710" width="80" height="80" as="geometry" />
+        <mxCell id="HzN0MrrhUGkQy3RDOo2--14" value="BMI&gt;=30?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="710" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
