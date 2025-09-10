@@ -59,8 +59,8 @@
         <mxCell id="O6zmtuFgvWm3FMoOtooi-17" value="初始化最大值位置和最小值位置为1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="960" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O6zmtuFgvWm3FMoOtooi-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1020" width="120" height="60" as="geometry" />
+        <mxCell id="O6zmtuFgvWm3FMoOtooi-19" value="循环i从1到n-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1020" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
