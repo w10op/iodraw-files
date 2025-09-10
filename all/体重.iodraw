@@ -76,7 +76,7 @@
         <mxCell id="HzN0MrrhUGkQy3RDOo2--22" value="过重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="950" width="105" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HzN0MrrhUGkQy3RDOo2--25" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HzN0MrrhUGkQy3RDOo2--25" value="BMI&amp;gt;=18.5?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="990" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
