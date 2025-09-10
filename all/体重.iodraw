@@ -29,7 +29,10 @@
           <mxGeometry x="280" y="450" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HzN0MrrhUGkQy3RDOo2--10" value="输入第i+1个学生的体重和身高" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="590" width="220" height="60" as="geometry" />
+          <mxGeometry x="275" y="540" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HzN0MrrhUGkQy3RDOo2--12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="630" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
