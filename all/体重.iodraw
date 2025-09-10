@@ -140,11 +140,12 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="770" y="1330" />
-              <mxPoint x="770" y="465" />
+              <mxPoint x="770" y="480" />
+              <mxPoint x="490" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HzN0MrrhUGkQy3RDOo2--42" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HzN0MrrhUGkQy3RDOo2--41">
+        <mxCell id="HzN0MrrhUGkQy3RDOo2--42" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HzN0MrrhUGkQy3RDOo2--41">
           <mxGeometry x="-0.0205" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
