@@ -46,6 +46,9 @@
         <mxCell id="Mp-FkGW6FBJZ7T2mWuO2-9" value="初始化sum=0,term=0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="310" width="220" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="s4NdWZv3zn-85GzFYf5Y-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
