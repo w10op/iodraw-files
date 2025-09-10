@@ -34,8 +34,8 @@
         <mxCell id="7XKxPyAEg_ZSq-yuQn7w-8" value="剩余人数&amp;gt;1?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="530" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7XKxPyAEg_ZSq-yuQn7w-10" value="&amp;nbsp;currentIndex = (currentIndex + m - 1) % people.size();" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="660" width="270" height="90" as="geometry" />
+        <mxCell id="7XKxPyAEg_ZSq-yuQn7w-10" value="计算移除的位置&lt;div&gt;&amp;nbsp;currentIndex = (currentIndex + m - 1) % people.size();&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="690" width="355" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
