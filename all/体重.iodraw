@@ -136,8 +136,8 @@
         <mxCell id="HzN0MrrhUGkQy3RDOo2--34" value="保存BMI和状态到数组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HzN0MrrhUGkQy3RDOo2--39" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1310" width="130" height="80" as="geometry" />
+        <mxCell id="HzN0MrrhUGkQy3RDOo2--39" value="i&amp;lt;n-1?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1310" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
