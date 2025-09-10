@@ -50,11 +50,14 @@
         <mxCell id="O6zmtuFgvWm3FMoOtooi-13" value="输入n个整数到数组中" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="256" y="820" width="188" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="O6zmtuFgvWm3FMoOtooi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O6zmtuFgvWm3FMoOtooi-15" target="O6zmtuFgvWm3FMoOtooi-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O6zmtuFgvWm3FMoOtooi-15" value="初始化最大值和最小值为第一个元素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="890" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O6zmtuFgvWm3FMoOtooi-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="960" width="220" height="40" as="geometry" />
+        <mxCell id="O6zmtuFgvWm3FMoOtooi-17" value="初始化最大值位置和最小值位置为1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="960" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
