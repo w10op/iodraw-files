@@ -64,6 +64,9 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7XKxPyAEg_ZSq-yuQn7w-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7XKxPyAEg_ZSq-yuQn7w-14" target="7XKxPyAEg_ZSq-yuQn7w-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7XKxPyAEg_ZSq-yuQn7w-14" value="currentIndex == people.size()" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329.5" y="950" width="221" height="80" as="geometry" />
         </mxCell>
@@ -71,7 +74,7 @@
           <mxGeometry x="180" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7XKxPyAEg_ZSq-yuQn7w-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="1130" width="120" height="60" as="geometry" />
+          <mxGeometry x="555" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
