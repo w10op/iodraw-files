@@ -23,7 +23,10 @@
           <mxGeometry x="270" y="160" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="y0o8hidx7d-68F4l_20V-8" value="rts.toString().equals(str)？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="250" width="200" height="80" as="geometry" />
+          <mxGeometry x="245" y="250" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y0o8hidx7d-68F4l_20V-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
