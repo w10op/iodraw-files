@@ -57,6 +57,11 @@
         <mxCell id="HzN0MrrhUGkQy3RDOo2--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HzN0MrrhUGkQy3RDOo2--17" target="HzN0MrrhUGkQy3RDOo2--22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="HzN0MrrhUGkQy3RDOo2--24" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HzN0MrrhUGkQy3RDOo2--23">
+          <mxGeometry x="-0.3492" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HzN0MrrhUGkQy3RDOo2--17" value="BMI&amp;gt;=25?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="860" width="140" height="80" as="geometry" />
         </mxCell>
@@ -69,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HzN0MrrhUGkQy3RDOo2--22" value="过重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="167.5" y="920" width="105" height="40" as="geometry" />
+          <mxGeometry x="170" y="950" width="105" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
