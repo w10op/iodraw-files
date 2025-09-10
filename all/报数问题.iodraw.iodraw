@@ -31,6 +31,11 @@
         <mxCell id="7XKxPyAEg_ZSq-yuQn7w-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7XKxPyAEg_ZSq-yuQn7w-8" target="7XKxPyAEg_ZSq-yuQn7w-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7XKxPyAEg_ZSq-yuQn7w-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7XKxPyAEg_ZSq-yuQn7w-11">
+          <mxGeometry x="-0.1111" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7XKxPyAEg_ZSq-yuQn7w-8" value="剩余人数&amp;gt;1?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="530" width="170" height="80" as="geometry" />
         </mxCell>
@@ -47,7 +52,7 @@
           <mxGeometry x="381" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7XKxPyAEg_ZSq-yuQn7w-14" value="currentIndex == people.size()" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="361" y="950" width="160" height="80" as="geometry" />
+          <mxGeometry x="329.5" y="950" width="221" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
