@@ -20,13 +20,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HzN0MrrhUGkQy3RDOo2--6" value="创建体重、身高、BMI数组和状态数组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="380" width="230" height="60" as="geometry" />
+          <mxGeometry x="270" y="370" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HzN0MrrhUGkQy3RDOo2--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HzN0MrrhUGkQy3RDOo2--8" target="HzN0MrrhUGkQy3RDOo2--10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HzN0MrrhUGkQy3RDOo2--8" value="循环i从0到n-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="490" width="210" height="60" as="geometry" />
+          <mxGeometry x="280" y="450" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HzN0MrrhUGkQy3RDOo2--10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="600" width="220" height="60" as="geometry" />
+        <mxCell id="HzN0MrrhUGkQy3RDOo2--10" value="输入第i+1个学生的体重和身高" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="590" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
