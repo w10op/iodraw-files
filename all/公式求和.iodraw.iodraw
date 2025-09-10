@@ -61,8 +61,8 @@
         <mxCell id="s4NdWZv3zn-85GzFYf5Y-3" value="i&amp;lt;=n" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="500" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s4NdWZv3zn-85GzFYf5Y-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="770" width="120" height="60" as="geometry" />
+        <mxCell id="s4NdWZv3zn-85GzFYf5Y-8" value="输出结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
