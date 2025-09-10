@@ -53,8 +53,8 @@
         <mxCell id="mFl_Ls675XI_Uyk5czpf-15" value="递归调用printReverse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="525" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="mFl_Ls675XI_Uyk5czpf-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="620" width="100" height="40" as="geometry" />
+        <mxCell id="mFl_Ls675XI_Uyk5czpf-16" value="substring(1)作为参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="630" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
