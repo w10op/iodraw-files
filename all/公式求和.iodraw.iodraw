@@ -49,10 +49,13 @@
         <mxCell id="Mp-FkGW6FBJZ7T2mWuO2-9" value="初始化sum=0,term=0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="310" width="220" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="s4NdWZv3zn-85GzFYf5Y-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s4NdWZv3zn-85GzFYf5Y-1" target="s4NdWZv3zn-85GzFYf5Y-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s4NdWZv3zn-85GzFYf5Y-1" value="i=1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s4NdWZv3zn-85GzFYf5Y-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s4NdWZv3zn-85GzFYf5Y-3" value="i&amp;lt;=n" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="500" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
