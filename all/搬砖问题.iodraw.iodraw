@@ -13,7 +13,7 @@
         <mxCell id="m9SAKXmGuXNSpnh_phW2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m9SAKXmGuXNSpnh_phW2-3" target="m9SAKXmGuXNSpnh_phW2-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m9SAKXmGuXNSpnh_phW2-3" value="输入砖的总数和人的数量" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="m9SAKXmGuXNSpnh_phW2-3" value="输入砖的总数m和人的数量n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="150" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m9SAKXmGuXNSpnh_phW2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m9SAKXmGuXNSpnh_phW2-7" target="m9SAKXmGuXNSpnh_phW2-10">
