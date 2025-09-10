@@ -19,6 +19,9 @@
         <mxCell id="7XKxPyAEg_ZSq-yuQn7w-4" value="初始化1到n的人员列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7XKxPyAEg_ZSq-yuQn7w-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
