@@ -46,8 +46,8 @@
         <mxCell id="HzN0MrrhUGkQy3RDOo2--16" value="肥胖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="810" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HzN0MrrhUGkQy3RDOo2--17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="840" width="100" height="80" as="geometry" />
+        <mxCell id="HzN0MrrhUGkQy3RDOo2--17" value="BMI&amp;gt;=25?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="840" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
