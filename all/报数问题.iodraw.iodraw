@@ -28,7 +28,7 @@
         <mxCell id="7XKxPyAEg_ZSq-yuQn7w-6" value="设置当前位置索引为0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7XKxPyAEg_ZSq-yuQn7w-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7XKxPyAEg_ZSq-yuQn7w-8" value="剩余人数&amp;gt;1?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="530" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
