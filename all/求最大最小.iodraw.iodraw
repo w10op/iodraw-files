@@ -87,6 +87,9 @@
         <mxCell id="O6zmtuFgvWm3FMoOtooi-20" value="numbers[i]&amp;gt;max?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="1089" width="130" height="61" as="geometry" />
         </mxCell>
+        <mxCell id="O6zmtuFgvWm3FMoOtooi-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O6zmtuFgvWm3FMoOtooi-23" target="O6zmtuFgvWm3FMoOtooi-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O6zmtuFgvWm3FMoOtooi-23" value="更新max=numbers[i], maxPos=i+1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="1140" width="130" height="50" as="geometry" />
         </mxCell>
