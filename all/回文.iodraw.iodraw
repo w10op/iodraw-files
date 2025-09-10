@@ -13,7 +13,7 @@
         <mxCell id="y0o8hidx7d-68F4l_20V-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y0o8hidx7d-68F4l_20V-2" target="y0o8hidx7d-68F4l_20V-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y0o8hidx7d-68F4l_20V-2" value="输入一个字符串" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="y0o8hidx7d-68F4l_20V-2" value="输入一个字符串str" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="90" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y0o8hidx7d-68F4l_20V-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
