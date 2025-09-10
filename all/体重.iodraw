@@ -28,11 +28,14 @@
         <mxCell id="HzN0MrrhUGkQy3RDOo2--8" value="循环i从0到n-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="450" width="210" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HzN0MrrhUGkQy3RDOo2--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HzN0MrrhUGkQy3RDOo2--10" target="HzN0MrrhUGkQy3RDOo2--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HzN0MrrhUGkQy3RDOo2--10" value="输入第i+1个学生的体重和身高" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="540" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HzN0MrrhUGkQy3RDOo2--12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="630" width="170" height="60" as="geometry" />
+          <mxGeometry x="280" y="620" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
