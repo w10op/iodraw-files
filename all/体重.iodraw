@@ -10,10 +10,13 @@
         <mxCell id="HzN0MrrhUGkQy3RDOo2--2" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="340" y="190" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HzN0MrrhUGkQy3RDOo2--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HzN0MrrhUGkQy3RDOo2--4" target="HzN0MrrhUGkQy3RDOo2--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HzN0MrrhUGkQy3RDOo2--4" value="输入学生人数n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="280" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HzN0MrrhUGkQy3RDOo2--6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HzN0MrrhUGkQy3RDOo2--6" value="创建体重、身高、BMI数组和状态数组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="380" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
