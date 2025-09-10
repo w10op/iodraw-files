@@ -31,7 +31,7 @@
         <mxCell id="m9SAKXmGuXNSpnh_phW2-10" value="man" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="370" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="m9SAKXmGuXNSpnh_phW2-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m9SAKXmGuXNSpnh_phW2-13" value="woman=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
