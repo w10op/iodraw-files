@@ -19,8 +19,9 @@
         <mxCell id="22xiPnUTffNRzYPmrbLe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="22xiPnUTffNRzYPmrbLe-5" target="22xiPnUTffNRzYPmrbLe-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="710" y="300" />
-              <mxPoint x="710" y="555" />
+              <mxPoint x="650" y="300" />
+              <mxPoint x="650" y="555" />
+              <mxPoint x="580" y="555" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -57,7 +58,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="22xiPnUTffNRzYPmrbLe-14" value="用stringbuffer.reverse反转字符串" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="22xiPnUTffNRzYPmrbLe-19" value="输出反转后的字符串" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="525" width="120" height="60" as="geometry" />
