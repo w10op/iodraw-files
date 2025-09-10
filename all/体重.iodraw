@@ -43,6 +43,11 @@
         <mxCell id="HzN0MrrhUGkQy3RDOo2--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HzN0MrrhUGkQy3RDOo2--14" target="HzN0MrrhUGkQy3RDOo2--17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="HzN0MrrhUGkQy3RDOo2--19" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HzN0MrrhUGkQy3RDOo2--18">
+          <mxGeometry x="-0.28" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HzN0MrrhUGkQy3RDOo2--14" value="BMI&gt;=30?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="710" width="150" height="80" as="geometry" />
         </mxCell>
