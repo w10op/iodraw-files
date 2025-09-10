@@ -56,11 +56,14 @@
         <mxCell id="7XKxPyAEg_ZSq-yuQn7w-12" value="输出该位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="381" y="840" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7XKxPyAEg_ZSq-yuQn7w-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7XKxPyAEg_ZSq-yuQn7w-14" target="7XKxPyAEg_ZSq-yuQn7w-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7XKxPyAEg_ZSq-yuQn7w-14" value="currentIndex == people.size()" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329.5" y="950" width="221" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7XKxPyAEg_ZSq-yuQn7w-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1070" width="120" height="60" as="geometry" />
+        <mxCell id="7XKxPyAEg_ZSq-yuQn7w-18" value="currentIndex = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
