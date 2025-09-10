@@ -92,6 +92,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HzN0MrrhUGkQy3RDOo2--32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HzN0MrrhUGkQy3RDOo2--25" target="HzN0MrrhUGkQy3RDOo2--31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HzN0MrrhUGkQy3RDOo2--33" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HzN0MrrhUGkQy3RDOo2--32">
+          <mxGeometry x="-0.2774" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HzN0MrrhUGkQy3RDOo2--25" value="BMI&amp;gt;=18.5?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="990" width="150" height="70" as="geometry" />
         </mxCell>
@@ -99,7 +107,7 @@
           <mxGeometry x="175" y="1080" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HzN0MrrhUGkQy3RDOo2--31" value="过轻" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1070" width="110" height="50" as="geometry" />
+          <mxGeometry x="540" y="1070" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
