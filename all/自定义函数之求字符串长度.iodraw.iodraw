@@ -11,7 +11,10 @@
           <mxGeometry x="290" y="10" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9NgUGf8WB61zBkQa638g-2" value="主函数开始执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NgUGf8WB61zBkQa638g-4" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
