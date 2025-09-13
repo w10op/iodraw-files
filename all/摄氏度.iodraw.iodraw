@@ -19,6 +19,9 @@
         <mxCell id="Cns4LR_NM7T_e3gw50nz-4" value="验证输入是否为有效数字" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="210" width="130" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="Cns4LR_NM7T_e3gw50nz-6" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
