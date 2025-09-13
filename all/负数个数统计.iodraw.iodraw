@@ -77,7 +77,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y-wrm0gUY4HP-1BTY8G6-25" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="y-wrm0gUY4HP-1BTY8G6-24">
+        <mxCell id="y-wrm0gUY4HP-1BTY8G6-25" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="y-wrm0gUY4HP-1BTY8G6-24">
           <mxGeometry x="-0.031" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
