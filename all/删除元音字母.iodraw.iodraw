@@ -22,6 +22,9 @@
         <mxCell id="ixLCNszpD3fGH_h6HgTR-4" value="输入源字符串" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ixLCNszpD3fGH_h6HgTR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ixLCNszpD3fGH_h6HgTR-6" target="ixLCNszpD3fGH_h6HgTR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ixLCNszpD3fGH_h6HgTR-6" value="遍历字符串每个字符" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="380" width="120" height="60" as="geometry" />
         </mxCell>
@@ -58,6 +61,9 @@
         </mxCell>
         <mxCell id="ixLCNszpD3fGH_h6HgTR-12" value="继续下一个字符" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixLCNszpD3fGH_h6HgTR-20" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="870" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
