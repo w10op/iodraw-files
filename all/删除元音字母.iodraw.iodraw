@@ -28,8 +28,8 @@
         <mxCell id="ixLCNszpD3fGH_h6HgTR-9" value="字符是否为元音字母?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="490" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ixLCNszpD3fGH_h6HgTR-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="ixLCNszpD3fGH_h6HgTR-10" value="将字符添加到结果字符串" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
