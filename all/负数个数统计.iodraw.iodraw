@@ -61,6 +61,9 @@
         <mxCell id="y-wrm0gUY4HP-1BTY8G6-14" value="输出不符合，重新输入&lt;div&gt;i--&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="730" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="y-wrm0gUY4HP-1BTY8G6-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="650" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
