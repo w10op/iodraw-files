@@ -16,7 +16,7 @@
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-2" value="定义成绩&lt;div&gt;&lt;div&gt;&amp;nbsp;int excellent = 0;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; int pass = 0;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; int fail = 0;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VCY_QkVagKeSQ1AuFfNn-4" value="循环输入整数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VCY_QkVagKeSQ1AuFfNn-4" value="循环输入分数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
