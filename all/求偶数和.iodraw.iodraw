@@ -85,8 +85,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bIqTPBhdH7iIalJAYE8r-27" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="260" y="870" width="170" height="60" as="geometry" />
+        <mxCell id="bIqTPBhdH7iIalJAYE8r-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bIqTPBhdH7iIalJAYE8r-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bIqTPBhdH7iIalJAYE8r-27" value="输出sum" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="300" y="860" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
