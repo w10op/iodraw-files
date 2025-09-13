@@ -42,7 +42,7 @@
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-13" value="score&amp;gt;85" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="570" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VCY_QkVagKeSQ1AuFfNn-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VCY_QkVagKeSQ1AuFfNn-16" value="score&amp;gt;=60" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="690" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
