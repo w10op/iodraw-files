@@ -36,7 +36,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2jaezZO3gU5RU7IIxesM-7" value="输出n的输入不符合" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-600" width="136" height="60" as="geometry" />
+          <mxGeometry x="560" y="-584" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2jaezZO3gU5RU7IIxesM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2jaezZO3gU5RU7IIxesM-10" target="2jaezZO3gU5RU7IIxesM-13">
           <mxGeometry relative="1" as="geometry" />
@@ -47,7 +47,7 @@
         <mxCell id="2jaezZO3gU5RU7IIxesM-13" value="计算各位数字之和" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="-680" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2jaezZO3gU5RU7IIxesM-15" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="2jaezZO3gU5RU7IIxesM-15" value="输出各位数字之和" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="-584" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
