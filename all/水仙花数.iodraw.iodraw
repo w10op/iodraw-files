@@ -36,14 +36,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Urlei-KgpoIqw0m5-AdA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Urlei-KgpoIqw0m5-AdA-7" target="Urlei-KgpoIqw0m5-AdA-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Urlei-KgpoIqw0m5-AdA-15" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Urlei-KgpoIqw0m5-AdA-14">
+          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Urlei-KgpoIqw0m5-AdA-7" value="幂之和是否等于原数字?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Urlei-KgpoIqw0m5-AdA-10" value="输出该水仙花数" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Urlei-KgpoIqw0m5-AdA-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="Urlei-KgpoIqw0m5-AdA-13" value="继续下一个数字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
