@@ -16,11 +16,14 @@
         <mxCell id="n0uJzw_Kg8ay5UvCNVA4-2" value="输入第一个字符串" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="90" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="n0uJzw_Kg8ay5UvCNVA4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n0uJzw_Kg8ay5UvCNVA4-3" target="n0uJzw_Kg8ay5UvCNVA4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n0uJzw_Kg8ay5UvCNVA4-3" value="输入第二个字符串" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="190" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n0uJzw_Kg8ay5UvCNVA4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="n0uJzw_Kg8ay5UvCNVA4-6" value="调用自定义函数连接字符串" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
