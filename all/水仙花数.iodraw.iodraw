@@ -67,6 +67,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Urlei-KgpoIqw0m5-AdA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Urlei-KgpoIqw0m5-AdA-17" target="Urlei-KgpoIqw0m5-AdA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Urlei-KgpoIqw0m5-AdA-17" value="是否遍历完所有三位数?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="585" width="80" height="80" as="geometry" />
         </mxCell>
