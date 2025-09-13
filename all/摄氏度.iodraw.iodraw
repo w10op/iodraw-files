@@ -13,6 +13,9 @@
         <mxCell id="Cns4LR_NM7T_e3gw50nz-2" value="输入华氏温度F" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Cns4LR_NM7T_e3gw50nz-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
