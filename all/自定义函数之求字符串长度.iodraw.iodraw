@@ -16,11 +16,17 @@
         <mxCell id="9NgUGf8WB61zBkQa638g-2" value="主函数开始执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="90" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9NgUGf8WB61zBkQa638g-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9NgUGf8WB61zBkQa638g-4" target="9NgUGf8WB61zBkQa638g-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9NgUGf8WB61zBkQa638g-4" value="输入字符串i" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9NgUGf8WB61zBkQa638g-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9NgUGf8WB61zBkQa638g-7" value="调用自定义求长度函数myLength" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NgUGf8WB61zBkQa638g-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
