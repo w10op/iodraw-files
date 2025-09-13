@@ -31,7 +31,7 @@
         <mxCell id="Urlei-KgpoIqw0m5-AdA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Urlei-KgpoIqw0m5-AdA-7" target="Urlei-KgpoIqw0m5-AdA-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Urlei-KgpoIqw0m5-AdA-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Urlei-KgpoIqw0m5-AdA-11">
+        <mxCell id="Urlei-KgpoIqw0m5-AdA-12" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Urlei-KgpoIqw0m5-AdA-11">
           <mxGeometry x="-0.12" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -41,6 +41,9 @@
         </mxCell>
         <mxCell id="Urlei-KgpoIqw0m5-AdA-10" value="输出该水仙花数" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Urlei-KgpoIqw0m5-AdA-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
