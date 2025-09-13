@@ -72,6 +72,9 @@
         <mxCell id="KycCnP3xH-OZJw95uqsE-25" value="判断number是否符合" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="740" width="110" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="KycCnP3xH-OZJw95uqsE-27" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
