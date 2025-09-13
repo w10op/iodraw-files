@@ -69,7 +69,7 @@
         <mxCell id="KycCnP3xH-OZJw95uqsE-23" value="输入整数number" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KycCnP3xH-OZJw95uqsE-25" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KycCnP3xH-OZJw95uqsE-25" value="判断number是否符合" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="750" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
