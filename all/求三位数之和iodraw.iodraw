@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2jaezZO3gU5RU7IIxesM-7" value="输出n的输入不符合" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="-630" width="136" height="60" as="geometry" />
+          <mxGeometry x="560" y="-600" width="136" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
