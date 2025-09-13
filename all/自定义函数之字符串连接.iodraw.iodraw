@@ -25,7 +25,7 @@
         <mxCell id="n0uJzw_Kg8ay5UvCNVA4-6" value="调用自定义函数连接字符串" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n0uJzw_Kg8ay5UvCNVA4-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n0uJzw_Kg8ay5UvCNVA4-8" value="str1+str2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
