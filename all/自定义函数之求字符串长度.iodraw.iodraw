@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9NgUGf8WB61zBkQa638g-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9NgUGf8WB61zBkQa638g-1" target="9NgUGf8WB61zBkQa638g-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9NgUGf8WB61zBkQa638g-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="290" y="10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9NgUGf8WB61zBkQa638g-2" value="主函数开始执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
