@@ -22,10 +22,13 @@
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-4" value="循环输入分数&lt;div&gt;int score&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VCY_QkVagKeSQ1AuFfNn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VCY_QkVagKeSQ1AuFfNn-6" target="VCY_QkVagKeSQ1AuFfNn-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-6" value="score == -1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VCY_QkVagKeSQ1AuFfNn-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VCY_QkVagKeSQ1AuFfNn-10" value="验证成绩范围" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="440" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
