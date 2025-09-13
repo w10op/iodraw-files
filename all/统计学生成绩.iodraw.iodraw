@@ -42,19 +42,18 @@
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-13" value="score&amp;gt;85" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="570" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VCY_QkVagKeSQ1AuFfNn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VCY_QkVagKeSQ1AuFfNn-16" target="VCY_QkVagKeSQ1AuFfNn-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VCY_QkVagKeSQ1AuFfNn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VCY_QkVagKeSQ1AuFfNn-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="840" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="VCY_QkVagKeSQ1AuFfNn-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VCY_QkVagKeSQ1AuFfNn-20">
+        <mxCell id="VCY_QkVagKeSQ1AuFfNn-21" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VCY_QkVagKeSQ1AuFfNn-20">
           <mxGeometry x="-0.28" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-16" value="score&amp;gt;=60" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="710" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="VCY_QkVagKeSQ1AuFfNn-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="840" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VCY_QkVagKeSQ1AuFfNn-13" target="VCY_QkVagKeSQ1AuFfNn-16">
           <mxGeometry relative="1" as="geometry" />
