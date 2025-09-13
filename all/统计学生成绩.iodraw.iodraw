@@ -30,11 +30,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VCY_QkVagKeSQ1AuFfNn-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VCY_QkVagKeSQ1AuFfNn-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="1010" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-6" value="score == -1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="300" width="80" height="80" as="geometry" />
         </mxCell>
@@ -104,6 +99,9 @@
         </mxCell>
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-28" value="excellent++" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCY_QkVagKeSQ1AuFfNn-36" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
