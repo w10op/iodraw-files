@@ -62,6 +62,14 @@
         <mxCell id="vq_b7G8k_3hlh-5ZrNq8-18" value="继续找逗号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vq_b7G8k_3hlh-5ZrNq8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vq_b7G8k_3hlh-5ZrNq8-20" target="vq_b7G8k_3hlh-5ZrNq8-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="740" />
+              <mxPoint x="190" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vq_b7G8k_3hlh-5ZrNq8-20" value="是否还有逗号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="700" width="80" height="80" as="geometry" />
         </mxCell>
