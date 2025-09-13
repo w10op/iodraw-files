@@ -103,6 +103,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="y-wrm0gUY4HP-1BTY8G6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y-wrm0gUY4HP-1BTY8G6-29" target="y-wrm0gUY4HP-1BTY8G6-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="y-wrm0gUY4HP-1BTY8G6-29" value="输出负数n的个数" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="880" width="120" height="60" as="geometry" />
         </mxCell>
@@ -119,8 +122,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y-wrm0gUY4HP-1BTY8G6-36" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="354" y="980" width="100" height="60" as="geometry" />
+        <mxCell id="y-wrm0gUY4HP-1BTY8G6-36" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="1000" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
