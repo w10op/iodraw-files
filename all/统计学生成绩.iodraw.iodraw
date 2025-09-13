@@ -16,8 +16,21 @@
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-2" value="定义成绩&lt;div&gt;&lt;div&gt;&amp;nbsp;int excellent = 0;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; int pass = 0;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; int fail = 0;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="100" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VCY_QkVagKeSQ1AuFfNn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VCY_QkVagKeSQ1AuFfNn-4" target="VCY_QkVagKeSQ1AuFfNn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-4" value="循环输入分数&lt;div&gt;int score&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCY_QkVagKeSQ1AuFfNn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VCY_QkVagKeSQ1AuFfNn-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VCY_QkVagKeSQ1AuFfNn-9" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VCY_QkVagKeSQ1AuFfNn-8">
+          <mxGeometry x="-0.2265" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-6" value="score == -1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="300" width="80" height="80" as="geometry" />
