@@ -42,6 +42,9 @@
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-13" value="score&amp;gt;85" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="570" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="VCY_QkVagKeSQ1AuFfNn-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="280" y="680" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
