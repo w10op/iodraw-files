@@ -22,7 +22,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y-wrm0gUY4HP-1BTY8G6-5" value="i&amp;lt;=10" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="350" y="180" width="100" height="80" as="geometry" />
+          <mxGeometry x="360" y="180" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y-wrm0gUY4HP-1BTY8G6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y-wrm0gUY4HP-1BTY8G6-3" target="y-wrm0gUY4HP-1BTY8G6-5">
           <mxGeometry relative="1" as="geometry" />
@@ -102,9 +102,6 @@
         </mxCell>
         <mxCell id="y-wrm0gUY4HP-1BTY8G6-29" value="输出负数n的个数" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="880" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y-wrm0gUY4HP-1BTY8G6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="y-wrm0gUY4HP-1BTY8G6-5" target="y-wrm0gUY4HP-1BTY8G6-5">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
