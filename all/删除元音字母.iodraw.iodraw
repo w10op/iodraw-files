@@ -16,10 +16,13 @@
         <mxCell id="ixLCNszpD3fGH_h6HgTR-2" value="主函数开始执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ixLCNszpD3fGH_h6HgTR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ixLCNszpD3fGH_h6HgTR-4" target="ixLCNszpD3fGH_h6HgTR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ixLCNszpD3fGH_h6HgTR-4" value="输入源字符串" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ixLCNszpD3fGH_h6HgTR-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ixLCNszpD3fGH_h6HgTR-6" value="遍历字符串每个字符" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
