@@ -1,36 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
-  <diagram id="o46BK0dORWXazCIGPR4f" name="第 1 页">
-    <mxGraphModel dx="631" dy="1960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="XdNl1FJg7R4DzV7QSKc4" name="第 1 页">
+    <mxGraphModel dx="631" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="C9APlMjNj6Db0MmUPhoK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="C9APlMjNj6Db0MmUPhoK-1" target="C9APlMjNj6Db0MmUPhoK-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C9APlMjNj6Db0MmUPhoK-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="300" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C9APlMjNj6Db0MmUPhoK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C9APlMjNj6Db0MmUPhoK-2" target="C9APlMjNj6Db0MmUPhoK-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C9APlMjNj6Db0MmUPhoK-2" value="输入一个三位数number" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C9APlMjNj6Db0MmUPhoK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C9APlMjNj6Db0MmUPhoK-4" target="C9APlMjNj6Db0MmUPhoK-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C9APlMjNj6Db0MmUPhoK-4" value="提取百十个位数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C9APlMjNj6Db0MmUPhoK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="C9APlMjNj6Db0MmUPhoK-8" target="C9APlMjNj6Db0MmUPhoK-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C9APlMjNj6Db0MmUPhoK-8" value="逆序输出" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C9APlMjNj6Db0MmUPhoK-10" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="300" y="400" width="100" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
