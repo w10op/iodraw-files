@@ -50,8 +50,8 @@
         <mxCell id="2jaezZO3gU5RU7IIxesM-15" value="输出各位数字之和" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="-584" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2jaezZO3gU5RU7IIxesM-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="354" y="-420" width="100" height="60" as="geometry" />
+        <mxCell id="2jaezZO3gU5RU7IIxesM-16" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="-420" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
