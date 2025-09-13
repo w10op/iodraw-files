@@ -32,7 +32,7 @@
         </mxCell>
         <mxCell id="y-wrm0gUY4HP-1BTY8G6-33" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="y-wrm0gUY4HP-1BTY8G6-32">
           <mxGeometry x="-0.066" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="y-wrm0gUY4HP-1BTY8G6-5" value="i&amp;lt;=10" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
@@ -107,9 +107,14 @@
         <mxCell id="y-wrm0gUY4HP-1BTY8G6-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.18;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y-wrm0gUY4HP-1BTY8G6-18" target="y-wrm0gUY4HP-1BTY8G6-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="665" />
-              <mxPoint x="260" y="235" />
+              <mxPoint x="300" y="665" />
+              <mxPoint x="300" y="235" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-wrm0gUY4HP-1BTY8G6-35" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="y-wrm0gUY4HP-1BTY8G6-34">
+          <mxGeometry x="-0.0985" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
