@@ -19,11 +19,14 @@
         <mxCell id="vq_b7G8k_3hlh-5ZrNq8-4" value="查找第一个逗号位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vq_b7G8k_3hlh-5ZrNq8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vq_b7G8k_3hlh-5ZrNq8-5" target="vq_b7G8k_3hlh-5ZrNq8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vq_b7G8k_3hlh-5ZrNq8-5" value="是否找到逗号?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vq_b7G8k_3hlh-5ZrNq8-7" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
