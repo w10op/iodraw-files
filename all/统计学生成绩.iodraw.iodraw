@@ -34,7 +34,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="220" y="340" />
-              <mxPoint x="220" y="950" />
+              <mxPoint x="220" y="910" />
+              <mxPoint x="330" y="910" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -114,7 +115,7 @@
           <mxGeometry x="414" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-36" value="输出结果" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
