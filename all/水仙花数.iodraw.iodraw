@@ -19,8 +19,11 @@
         <mxCell id="Urlei-KgpoIqw0m5-AdA-4" value="提取当前数字的百位、十位、个位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Urlei-KgpoIqw0m5-AdA-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Urlei-KgpoIqw0m5-AdA-6" value="计算各位数字的3次幂之和" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Urlei-KgpoIqw0m5-AdA-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="380" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
