@@ -19,6 +19,9 @@
         <mxCell id="573UIi6LMKF1ozFxj3Sm-4" value="验证r是否在0-5范围内" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="220" width="110" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="573UIi6LMKF1ozFxj3Sm-6" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
