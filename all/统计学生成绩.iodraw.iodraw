@@ -117,10 +117,15 @@
           <mxGeometry x="414" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VCY_QkVagKeSQ1AuFfNn-28" target="VCY_QkVagKeSQ1AuFfNn-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="580" />
+              <mxPoint x="490" y="340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-28" value="excellent++" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-36" value="输出结果" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="930" width="120" height="60" as="geometry" />
@@ -128,8 +133,8 @@
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-39" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="280" y="1040" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VCY_QkVagKeSQ1AuFfNn-42" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="450" width="70" height="50" as="geometry" />
+        <mxCell id="VCY_QkVagKeSQ1AuFfNn-42" value="提示重新输入" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="455" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
