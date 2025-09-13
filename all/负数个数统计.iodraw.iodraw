@@ -36,8 +36,8 @@
         <mxCell id="y-wrm0gUY4HP-1BTY8G6-9" value="从键盘获取number" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y-wrm0gUY4HP-1BTY8G6-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="505" width="100" height="80" as="geometry" />
+        <mxCell id="y-wrm0gUY4HP-1BTY8G6-12" value="判断number是否符合数据" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="505" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
