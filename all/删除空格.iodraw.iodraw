@@ -13,6 +13,9 @@
         <mxCell id="Dn7NX9cp7zt2h8jTzAFb-2" value="输入一个字符串" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="304" y="100" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Dn7NX9cp7zt2h8jTzAFb-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
