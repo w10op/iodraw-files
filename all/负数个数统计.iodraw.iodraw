@@ -16,14 +16,22 @@
         <mxCell id="y-wrm0gUY4HP-1BTY8G6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="y-wrm0gUY4HP-1BTY8G6-5" target="y-wrm0gUY4HP-1BTY8G6-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="y-wrm0gUY4HP-1BTY8G6-11" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="y-wrm0gUY4HP-1BTY8G6-8">
+          <mxGeometry x="-0.3" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="y-wrm0gUY4HP-1BTY8G6-5" value="i&amp;lt;=10" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="350" y="180" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y-wrm0gUY4HP-1BTY8G6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y-wrm0gUY4HP-1BTY8G6-3" target="y-wrm0gUY4HP-1BTY8G6-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="y-wrm0gUY4HP-1BTY8G6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y-wrm0gUY4HP-1BTY8G6-7" target="y-wrm0gUY4HP-1BTY8G6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="y-wrm0gUY4HP-1BTY8G6-7" value="int number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y-wrm0gUY4HP-1BTY8G6-9" value="从键盘获取number" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="400" width="120" height="60" as="geometry" />
