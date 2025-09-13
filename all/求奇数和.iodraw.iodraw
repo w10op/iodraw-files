@@ -37,6 +37,9 @@
         <mxCell id="KycCnP3xH-OZJw95uqsE-7" value="提示重新输入n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="245" width="116" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="KycCnP3xH-OZJw95uqsE-13" value="初始化奇数和sum=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
