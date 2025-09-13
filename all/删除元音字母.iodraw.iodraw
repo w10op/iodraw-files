@@ -36,7 +36,7 @@
         <mxCell id="ixLCNszpD3fGH_h6HgTR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ixLCNszpD3fGH_h6HgTR-9" target="ixLCNszpD3fGH_h6HgTR-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ixLCNszpD3fGH_h6HgTR-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ixLCNszpD3fGH_h6HgTR-15">
+        <mxCell id="ixLCNszpD3fGH_h6HgTR-16" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ixLCNszpD3fGH_h6HgTR-15">
           <mxGeometry x="-0.1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -44,8 +44,14 @@
         <mxCell id="ixLCNszpD3fGH_h6HgTR-9" value="字符是否为元音字母?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="490" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ixLCNszpD3fGH_h6HgTR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ixLCNszpD3fGH_h6HgTR-10" target="ixLCNszpD3fGH_h6HgTR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ixLCNszpD3fGH_h6HgTR-10" value="将字符添加到结果字符串" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixLCNszpD3fGH_h6HgTR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ixLCNszpD3fGH_h6HgTR-11" target="ixLCNszpD3fGH_h6HgTR-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ixLCNszpD3fGH_h6HgTR-11" value="跳过该字符" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="500" width="120" height="60" as="geometry" />
