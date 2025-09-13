@@ -29,8 +29,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="573UIi6LMKF1ozFxj3Sm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="573UIi6LMKF1ozFxj3Sm-4" target="573UIi6LMKF1ozFxj3Sm-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="573UIi6LMKF1ozFxj3Sm-4" value="验证r是否在0-5范围内" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="220" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="573UIi6LMKF1ozFxj3Sm-9" value="使用公式计算圆面积" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
