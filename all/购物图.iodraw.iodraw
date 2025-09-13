@@ -120,13 +120,16 @@
         <mxCell id="fDyy6MeZErjiGlM6n6uv-18" value="计算应付金额" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fDyy6MeZErjiGlM6n6uv-31" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="fDyy6MeZErjiGlM6n6uv-31" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="190" y="920" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fDyy6MeZErjiGlM6n6uv-32" value="输出应付金额保留两位小数" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fDyy6MeZErjiGlM6n6uv-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.419;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fDyy6MeZErjiGlM6n6uv-18" target="fDyy6MeZErjiGlM6n6uv-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fDyy6MeZErjiGlM6n6uv-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fDyy6MeZErjiGlM6n6uv-32" target="fDyy6MeZErjiGlM6n6uv-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
