@@ -10,8 +10,11 @@
         <mxCell id="ixLCNszpD3fGH_h6HgTR-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="320" y="100" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ixLCNszpD3fGH_h6HgTR-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="ixLCNszpD3fGH_h6HgTR-2" value="主函数开始执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixLCNszpD3fGH_h6HgTR-4" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
