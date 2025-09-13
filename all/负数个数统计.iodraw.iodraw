@@ -21,12 +21,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y-wrm0gUY4HP-1BTY8G6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y-wrm0gUY4HP-1BTY8G6-5" target="y-wrm0gUY4HP-1BTY8G6-29">
+        <mxCell id="y-wrm0gUY4HP-1BTY8G6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="220" as="sourcePoint" />
+            <mxPoint x="430" y="880" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="220" y="220" />
-              <mxPoint x="220" y="860" />
-              <mxPoint x="400" y="860" />
+              <mxPoint x="260" y="220" />
+              <mxPoint x="260" y="860" />
+              <mxPoint x="430" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -102,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y-wrm0gUY4HP-1BTY8G6-29" value="输出负数n的个数" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y-wrm0gUY4HP-1BTY8G6-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.18;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y-wrm0gUY4HP-1BTY8G6-18" target="y-wrm0gUY4HP-1BTY8G6-5">
           <mxGeometry relative="1" as="geometry">
