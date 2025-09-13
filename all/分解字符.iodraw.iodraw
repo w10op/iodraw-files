@@ -70,8 +70,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="vq_b7G8k_3hlh-5ZrNq8-23" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vq_b7G8k_3hlh-5ZrNq8-22">
+          <mxGeometry x="0.0375" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vq_b7G8k_3hlh-5ZrNq8-20" value="是否还有逗号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vq_b7G8k_3hlh-5ZrNq8-24" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
