@@ -19,6 +19,11 @@
         <mxCell id="KycCnP3xH-OZJw95uqsE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KycCnP3xH-OZJw95uqsE-4" target="KycCnP3xH-OZJw95uqsE-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KycCnP3xH-OZJw95uqsE-12" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KycCnP3xH-OZJw95uqsE-11">
+          <mxGeometry x="0.16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KycCnP3xH-OZJw95uqsE-4" value="判断n是否大于0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="230" width="100" height="80" as="geometry" />
         </mxCell>
@@ -30,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KycCnP3xH-OZJw95uqsE-7" value="提示重新输入n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="245" width="116" height="50" as="geometry" />
+          <mxGeometry x="390" y="245" width="116" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
