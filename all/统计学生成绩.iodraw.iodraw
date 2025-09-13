@@ -47,11 +47,6 @@
             <mxPoint x="330" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VCY_QkVagKeSQ1AuFfNn-21" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VCY_QkVagKeSQ1AuFfNn-20">
-          <mxGeometry x="-0.28" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-16" value="score&amp;gt;=60" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="710" width="80" height="80" as="geometry" />
         </mxCell>
@@ -64,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
