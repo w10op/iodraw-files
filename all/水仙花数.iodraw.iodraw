@@ -56,7 +56,7 @@
         <mxCell id="Urlei-KgpoIqw0m5-AdA-13" value="继续下一个数字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Urlei-KgpoIqw0m5-AdA-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Urlei-KgpoIqw0m5-AdA-17" value="是否遍历完所有三位数?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="620" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
