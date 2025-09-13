@@ -31,8 +31,8 @@
         <mxCell id="bIqTPBhdH7iIalJAYE8r-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bIqTPBhdH7iIalJAYE8r-6" target="bIqTPBhdH7iIalJAYE8r-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bIqTPBhdH7iIalJAYE8r-13" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="340" y="525" width="100" height="60" as="geometry" />
+        <mxCell id="bIqTPBhdH7iIalJAYE8r-13" value="从键盘获取正整数" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="340" y="520" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
