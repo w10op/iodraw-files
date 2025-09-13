@@ -53,7 +53,7 @@
         </mxCell>
         <mxCell id="fDyy6MeZErjiGlM6n6uv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fDyy6MeZErjiGlM6n6uv-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="670" as="targetPoint" />
+            <mxPoint x="70" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fDyy6MeZErjiGlM6n6uv-17" value="区间0: y=0%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fDyy6MeZErjiGlM6n6uv-16">
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="fDyy6MeZErjiGlM6n6uv-14" value="使用Switch判断区间" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="158.75" y="470" width="122.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fDyy6MeZErjiGlM6n6uv-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
