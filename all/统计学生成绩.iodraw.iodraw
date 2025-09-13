@@ -58,6 +58,11 @@
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VCY_QkVagKeSQ1AuFfNn-10" target="VCY_QkVagKeSQ1AuFfNn-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VCY_QkVagKeSQ1AuFfNn-45" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VCY_QkVagKeSQ1AuFfNn-43">
+          <mxGeometry x="0.4" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-10" value="验证成绩范围" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="440" width="80" height="80" as="geometry" />
         </mxCell>
@@ -119,9 +124,7 @@
         <mxCell id="VCY_QkVagKeSQ1AuFfNn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VCY_QkVagKeSQ1AuFfNn-28" target="VCY_QkVagKeSQ1AuFfNn-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="580" />
-              <mxPoint x="480" y="580" />
-              <mxPoint x="480" y="340" />
+              <mxPoint x="490" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
