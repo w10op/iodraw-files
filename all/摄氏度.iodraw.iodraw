@@ -33,6 +33,9 @@
         <mxCell id="Cns4LR_NM7T_e3gw50nz-6" value="重新输入" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Cns4LR_NM7T_e3gw50nz-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
