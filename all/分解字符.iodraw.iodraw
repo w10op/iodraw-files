@@ -4,11 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vq_b7G8k_3hlh-5ZrNq8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vq_b7G8k_3hlh-5ZrNq8-1" target="vq_b7G8k_3hlh-5ZrNq8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vq_b7G8k_3hlh-5ZrNq8-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="280" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vq_b7G8k_3hlh-5ZrNq8-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="vq_b7G8k_3hlh-5ZrNq8-2" value="输入字符串" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vq_b7G8k_3hlh-5ZrNq8-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
