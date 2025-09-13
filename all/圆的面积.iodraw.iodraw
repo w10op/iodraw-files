@@ -35,11 +35,14 @@
         <mxCell id="573UIi6LMKF1ozFxj3Sm-4" value="验证r是否在0-5范围内" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="220" width="110" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="573UIi6LMKF1ozFxj3Sm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="573UIi6LMKF1ozFxj3Sm-9" target="573UIi6LMKF1ozFxj3Sm-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="573UIi6LMKF1ozFxj3Sm-9" value="使用公式计算圆面积" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="573UIi6LMKF1ozFxj3Sm-11" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="573UIi6LMKF1ozFxj3Sm-11" value="输出圆的面积" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
