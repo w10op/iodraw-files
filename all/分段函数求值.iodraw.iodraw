@@ -133,10 +133,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FaXk1ACTntyAU5XQQOg3-32" value="输出" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FaXk1ACTntyAU5XQQOg3-37" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="364" y="1020" width="100" height="60" as="geometry" />
+          <mxGeometry x="364" y="1000" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
