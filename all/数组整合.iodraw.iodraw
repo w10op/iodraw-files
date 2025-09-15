@@ -42,8 +42,8 @@
         <mxCell id="oTo5SUsq091BBlsjLVYC-10" value="j&amp;lt;arr2.length" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="-630" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oTo5SUsq091BBlsjLVYC-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-510" width="80" height="80" as="geometry" />
+        <mxCell id="oTo5SUsq091BBlsjLVYC-12" value="arr1[i].equals(arr2[j])" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-520" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
