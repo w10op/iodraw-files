@@ -4,11 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FaXk1ACTntyAU5XQQOg3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaXk1ACTntyAU5XQQOg3-1" target="FaXk1ACTntyAU5XQQOg3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FaXk1ACTntyAU5XQQOg3-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="364" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FaXk1ACTntyAU5XQQOg3-2" value="&lt;div&gt;&lt;span style=&quot;font-size: 10.45pt; font-family: 宋体;&quot;&gt;输入一个数 x（取值范围：0&amp;lt;x&amp;lt;1000）&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="332" y="110" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaXk1ACTntyAU5XQQOg3-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="230" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
