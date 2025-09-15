@@ -33,8 +33,13 @@
         <mxCell id="FaXk1ACTntyAU5XQQOg3-6" value="输出不符合提示" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FaXk1ACTntyAU5XQQOg3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FaXk1ACTntyAU5XQQOg3-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FaXk1ACTntyAU5XQQOg3-9" value="int y=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
