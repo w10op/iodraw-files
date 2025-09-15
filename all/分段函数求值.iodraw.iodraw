@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="k_khXQgIpgboDzEAW1K6">
-    <mxGraphModel dx="597" dy="1947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="597" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FaXk1ACTntyAU5XQQOg3-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="364" width="100" height="60" as="geometry" />
+          <mxGeometry x="364" y="60" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FaXk1ACTntyAU5XQQOg3-2" value="&lt;div&gt;&lt;span style=&quot;font-size: 10.45pt; font-family: 宋体;&quot;&gt;输入一个数 x（取值范围：0&amp;lt;x&amp;lt;1000）&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="332" y="110" width="164" height="60" as="geometry" />
+          <mxGeometry x="332" y="150" width="164" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FaXk1ACTntyAU5XQQOg3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaXk1ACTntyAU5XQQOg3-4" target="FaXk1ACTntyAU5XQQOg3-6">
           <mxGeometry relative="1" as="geometry" />
@@ -128,6 +128,9 @@
         </mxCell>
         <mxCell id="FaXk1ACTntyAU5XQQOg3-24" value="y=3*x-11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaXk1ACTntyAU5XQQOg3-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FaXk1ACTntyAU5XQQOg3-32" target="FaXk1ACTntyAU5XQQOg3-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FaXk1ACTntyAU5XQQOg3-32" value="输出" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="900" width="120" height="60" as="geometry" />
