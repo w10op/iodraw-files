@@ -50,7 +50,7 @@
         <mxCell id="aGyw2SpSS7grYsRDkWm5-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oTo5SUsq091BBlsjLVYC-10" target="aGyw2SpSS7grYsRDkWm5-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aGyw2SpSS7grYsRDkWm5-17" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aGyw2SpSS7grYsRDkWm5-16">
+        <mxCell id="aGyw2SpSS7grYsRDkWm5-17" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aGyw2SpSS7grYsRDkWm5-16">
           <mxGeometry x="-0.0095" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -106,7 +106,7 @@
           <mxGeometry x="50" y="-530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aGyw2SpSS7grYsRDkWm5-15" value="i++" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-654" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="-654" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
