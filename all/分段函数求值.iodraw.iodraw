@@ -94,7 +94,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FaXk1ACTntyAU5XQQOg3-22" value="y=x" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FaXk1ACTntyAU5XQQOg3-23" value="y=2*x-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="610" width="120" height="60" as="geometry" />
@@ -102,7 +102,7 @@
         <mxCell id="FaXk1ACTntyAU5XQQOg3-24" value="y=3*x-11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FaXk1ACTntyAU5XQQOg3-32" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="FaXk1ACTntyAU5XQQOg3-32" value="输出" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
