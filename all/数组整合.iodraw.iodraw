@@ -37,7 +37,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oTo5SUsq091BBlsjLVYC-7" value="j=0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="255" y="-780" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="-750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oTo5SUsq091BBlsjLVYC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="oTo5SUsq091BBlsjLVYC-10" target="oTo5SUsq091BBlsjLVYC-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -48,7 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oTo5SUsq091BBlsjLVYC-10" value="j&amp;lt;arr2.length" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="265" y="-640" width="110" height="80" as="geometry" />
+          <mxGeometry x="265" y="-664" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oTo5SUsq091BBlsjLVYC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oTo5SUsq091BBlsjLVYC-12" target="oTo5SUsq091BBlsjLVYC-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oTo5SUsq091BBlsjLVYC-12" value="arr1[i].equals(arr2[j])" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="245" y="-520" width="150" height="80" as="geometry" />
+          <mxGeometry x="245" y="-540" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oTo5SUsq091BBlsjLVYC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oTo5SUsq091BBlsjLVYC-15" target="oTo5SUsq091BBlsjLVYC-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
