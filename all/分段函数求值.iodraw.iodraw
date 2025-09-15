@@ -106,7 +106,13 @@
           <mxGeometry x="510" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FaXk1ACTntyAU5XQQOg3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FaXk1ACTntyAU5XQQOg3-23" target="FaXk1ACTntyAU5XQQOg3-32">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="640" />
+              <mxPoint x="700" y="890" />
+              <mxPoint x="414" y="890" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FaXk1ACTntyAU5XQQOg3-23" value="y=2*x-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="610" width="120" height="60" as="geometry" />
