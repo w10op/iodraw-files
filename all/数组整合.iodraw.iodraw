@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GahYQJJdzDGTe-qE3BGM-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="GahYQJJdzDGTe-qE3BGM-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="270" y="-1160" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GahYQJJdzDGTe-qE3BGM-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GahYQJJdzDGTe-qE3BGM-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="-1060" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
