@@ -173,10 +173,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kD48WrxusOf_x1y213dF-51" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kD48WrxusOf_x1y213dF-50">
+        <mxCell id="kD48WrxusOf_x1y213dF-51" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kD48WrxusOf_x1y213dF-50">
           <mxGeometry x="0.011" y="-2" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kD48WrxusOf_x1y213dF-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
