@@ -38,7 +38,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZvXZJ58IeCuhC5l7wGIo-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZvXZJ58IeCuhC5l7wGIo-17">
+        <mxCell id="ZvXZJ58IeCuhC5l7wGIo-18" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZvXZJ58IeCuhC5l7wGIo-17">
           <mxGeometry x="-0.0167" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -71,6 +71,9 @@
         </mxCell>
         <mxCell id="ZvXZJ58IeCuhC5l7wGIo-16" value="输出天数days" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvXZJ58IeCuhC5l7wGIo-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="920" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
