@@ -174,6 +174,9 @@
         <mxCell id="eaUMiYr-mmpjeIjE8xy5-58" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="370" y="1810" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kX9o1ywgOdBdXur-51SM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eaUMiYr-mmpjeIjE8xy5-16" target="eaUMiYr-mmpjeIjE8xy5-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
