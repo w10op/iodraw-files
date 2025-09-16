@@ -48,7 +48,7 @@
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TJPQ_LDS9EI8Kej80wbc-13" target="TJPQ_LDS9EI8Kej80wbc-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TJPQ_LDS9EI8Kej80wbc-24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TJPQ_LDS9EI8Kej80wbc-23">
+        <mxCell id="TJPQ_LDS9EI8Kej80wbc-24" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TJPQ_LDS9EI8Kej80wbc-23">
           <mxGeometry x="-0.12" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -65,7 +65,7 @@
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TJPQ_LDS9EI8Kej80wbc-21" target="TJPQ_LDS9EI8Kej80wbc-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TJPQ_LDS9EI8Kej80wbc-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TJPQ_LDS9EI8Kej80wbc-21" value="字符类型判断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
