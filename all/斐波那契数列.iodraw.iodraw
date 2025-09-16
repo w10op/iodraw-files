@@ -56,7 +56,7 @@
         <mxCell id="eaUMiYr-mmpjeIjE8xy5-20" value="调用斐波那契函数传i过去" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="584" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eaUMiYr-mmpjeIjE8xy5-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eaUMiYr-mmpjeIjE8xy5-23" value="n=i&lt;div&gt;n==1||n==2&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="710" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
