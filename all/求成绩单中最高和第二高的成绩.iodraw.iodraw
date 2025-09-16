@@ -91,6 +91,9 @@
         <mxCell id="cT6iHajNOYMHa3VZemNE-25" value="i = i + 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="940" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cT6iHajNOYMHa3VZemNE-33" value="输出max1和max2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
