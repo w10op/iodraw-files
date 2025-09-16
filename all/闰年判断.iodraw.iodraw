@@ -165,6 +165,9 @@
         <mxCell id="kD48WrxusOf_x1y213dF-47" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="364" y="1370" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kD48WrxusOf_x1y213dF-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kD48WrxusOf_x1y213dF-8" target="kD48WrxusOf_x1y213dF-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
