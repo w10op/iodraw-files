@@ -30,6 +30,9 @@
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-6" value="密码无效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TJPQ_LDS9EI8Kej80wbc-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
