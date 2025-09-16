@@ -159,6 +159,9 @@
         <mxCell id="kD48WrxusOf_x1y213dF-41" value="i == n-1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1080" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="kD48WrxusOf_x1y213dF-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kD48WrxusOf_x1y213dF-44" target="kD48WrxusOf_x1y213dF-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kD48WrxusOf_x1y213dF-44" value="输出空格" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
@@ -177,6 +180,9 @@
           <mxGeometry x="0.011" y="-2" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kD48WrxusOf_x1y213dF-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kD48WrxusOf_x1y213dF-53" target="kD48WrxusOf_x1y213dF-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kD48WrxusOf_x1y213dF-53" value="i = i + 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="1220" width="120" height="60" as="geometry" />
