@@ -42,6 +42,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cT6iHajNOYMHa3VZemNE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cT6iHajNOYMHa3VZemNE-9" target="cT6iHajNOYMHa3VZemNE-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cT6iHajNOYMHa3VZemNE-9" value="i &amp;lt; n" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="480" width="80" height="80" as="geometry" />
         </mxCell>
@@ -65,7 +68,7 @@
         <mxCell id="cT6iHajNOYMHa3VZemNE-18" value="max1 = score[i]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cT6iHajNOYMHa3VZemNE-20" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cT6iHajNOYMHa3VZemNE-20" value="score[i] &amp;gt; max2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="610" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
