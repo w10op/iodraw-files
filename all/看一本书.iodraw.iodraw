@@ -13,6 +13,9 @@
         <mxCell id="ZvXZJ58IeCuhC5l7wGIo-2" value="输入书的页数n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZvXZJ58IeCuhC5l7wGIo-4" value="days = 0, pagesRead = 0, todayPages = 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
