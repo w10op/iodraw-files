@@ -25,6 +25,9 @@
         <mxCell id="cT6iHajNOYMHa3VZemNE-6" value="初始化max1和max2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cT6iHajNOYMHa3VZemNE-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
