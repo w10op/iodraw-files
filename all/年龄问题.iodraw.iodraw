@@ -93,6 +93,11 @@
         <mxCell id="BPWhnQQAudp0dB5VZ0UR-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BPWhnQQAudp0dB5VZ0UR-24" target="BPWhnQQAudp0dB5VZ0UR-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BPWhnQQAudp0dB5VZ0UR-33" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BPWhnQQAudp0dB5VZ0UR-32">
+          <mxGeometry x="-0.0222" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BPWhnQQAudp0dB5VZ0UR-24" value="成绩 &amp;lt; 80" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="545" width="80" height="80" as="geometry" />
         </mxCell>
@@ -101,6 +106,9 @@
         </mxCell>
         <mxCell id="BPWhnQQAudp0dB5VZ0UR-31" value="成绩 &amp;lt; 90" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BPWhnQQAudp0dB5VZ0UR-34" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
