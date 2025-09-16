@@ -22,10 +22,13 @@
         <mxCell id="ZvXZJ58IeCuhC5l7wGIo-4" value="days = 0,&amp;nbsp;&lt;div&gt;pagesRead = 0, todayPages = 1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZvXZJ58IeCuhC5l7wGIo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZvXZJ58IeCuhC5l7wGIo-6" target="ZvXZJ58IeCuhC5l7wGIo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZvXZJ58IeCuhC5l7wGIo-6" value="pagesRead &amp;lt; n" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="330" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZvXZJ58IeCuhC5l7wGIo-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZvXZJ58IeCuhC5l7wGIo-8" value="pagesRead = pagesRead + todayPages" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
