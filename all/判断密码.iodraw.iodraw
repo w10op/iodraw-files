@@ -101,14 +101,14 @@
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-30" value="设置小写标志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TJPQ_LDS9EI8Kej80wbc-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TJPQ_LDS9EI8Kej80wbc-33" target="TJPQ_LDS9EI8Kej80wbc-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-33" value="是否数字" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="740" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TJPQ_LDS9EI8Kej80wbc-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TJPQ_LDS9EI8Kej80wbc-36" value="设置数字标志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TJPQ_LDS9EI8Kej80wbc-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.333;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TJPQ_LDS9EI8Kej80wbc-33" target="TJPQ_LDS9EI8Kej80wbc-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
