@@ -10,7 +10,7 @@
         <mxCell id="nFBrbS3thI8iU4djAStI-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="230" y="10" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nFBrbS3thI8iU4djAStI-2" value="遍历输入十个整数" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="nFBrbS3thI8iU4djAStI-2" value="遍历输入十个整数number[]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
