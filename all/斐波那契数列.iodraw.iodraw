@@ -30,13 +30,16 @@
         <mxCell id="eaUMiYr-mmpjeIjE8xy5-8" value="判断N的范围是否符合" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="220" width="110" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="eaUMiYr-mmpjeIjE8xy5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eaUMiYr-mmpjeIjE8xy5-13" target="eaUMiYr-mmpjeIjE8xy5-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eaUMiYr-mmpjeIjE8xy5-13" value="i=1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="340" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eaUMiYr-mmpjeIjE8xy5-16" value="输出错误提醒" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eaUMiYr-mmpjeIjE8xy5-18" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eaUMiYr-mmpjeIjE8xy5-18" value="i&amp;lt;=n" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="440" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
