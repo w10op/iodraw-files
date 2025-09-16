@@ -31,7 +31,7 @@
         <mxCell id="-iJBSmvXFeVP6eInSQ9g-8" value="index = index + 1&lt;br&gt;array[index] = array[i]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-iJBSmvXFeVP6eInSQ9g-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-iJBSmvXFeVP6eInSQ9g-11" value="跳过重复元素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
