@@ -72,7 +72,15 @@
         <mxCell id="2rrRUtV8z00e0gS_1M2S-15" value="sum = sum - 1/i" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2rrRUtV8z00e0gS_1M2S-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2rrRUtV8z00e0gS_1M2S-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2rrRUtV8z00e0gS_1M2S-19" target="2rrRUtV8z00e0gS_1M2S-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="720" />
+              <mxPoint x="140" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rrRUtV8z00e0gS_1M2S-19" value="i = i + 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
