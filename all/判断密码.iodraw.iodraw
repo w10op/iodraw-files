@@ -139,11 +139,20 @@
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-39" value="i = i + 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="980" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TJPQ_LDS9EI8Kej80wbc-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TJPQ_LDS9EI8Kej80wbc-46" target="TJPQ_LDS9EI8Kej80wbc-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TJPQ_LDS9EI8Kej80wbc-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TJPQ_LDS9EI8Kej80wbc-46" target="TJPQ_LDS9EI8Kej80wbc-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-46" value="三个标志都为真" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="554" y="490" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TJPQ_LDS9EI8Kej80wbc-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
