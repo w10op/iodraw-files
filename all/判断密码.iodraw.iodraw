@@ -30,6 +30,9 @@
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-4" value="密码长度&amp;gt;=6" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="190" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="TJPQ_LDS9EI8Kej80wbc-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TJPQ_LDS9EI8Kej80wbc-6" target="TJPQ_LDS9EI8Kej80wbc-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-6" value="密码无效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -164,6 +167,9 @@
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-49" value="密码有效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="610" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TJPQ_LDS9EI8Kej80wbc-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TJPQ_LDS9EI8Kej80wbc-50" target="TJPQ_LDS9EI8Kej80wbc-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-50" value="密码无效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="610" width="120" height="60" as="geometry" />
         </mxCell>
@@ -171,7 +177,7 @@
           <mxGeometry x="460" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-57" value="输出结果: 否" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
