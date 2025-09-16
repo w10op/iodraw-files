@@ -19,6 +19,9 @@
         <mxCell id="exNSRBjODs9grAadmeC5-4" value="计算年龄的立方和四次方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="exNSRBjODs9grAadmeC5-6" value="检查立方是否为4位数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
