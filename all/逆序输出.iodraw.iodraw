@@ -57,7 +57,7 @@
         <mxCell id="nFBrbS3thI8iU4djAStI-13" value="i&amp;gt;=0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="460" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nFBrbS3thI8iU4djAStI-16" value="输出number" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="nFBrbS3thI8iU4djAStI-16" value="输出number[i]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
