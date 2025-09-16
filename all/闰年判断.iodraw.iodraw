@@ -154,6 +154,9 @@
         <mxCell id="kD48WrxusOf_x1y213dF-44" value="输出空格" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kD48WrxusOf_x1y213dF-47" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1350" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
