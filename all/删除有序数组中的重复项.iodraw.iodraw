@@ -16,11 +16,14 @@
         <mxCell id="-iJBSmvXFeVP6eInSQ9g-2" value="初始化数组&lt;div&gt;index = 0&lt;/div&gt;&lt;div&gt;i = 1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="90" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-iJBSmvXFeVP6eInSQ9g-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-iJBSmvXFeVP6eInSQ9g-3" target="-iJBSmvXFeVP6eInSQ9g-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-iJBSmvXFeVP6eInSQ9g-3" value="i &amp;lt; 数组长度" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-iJBSmvXFeVP6eInSQ9g-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="310" width="80" height="80" as="geometry" />
+        <mxCell id="-iJBSmvXFeVP6eInSQ9g-6" value="array[i] != array[index]" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="300" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
