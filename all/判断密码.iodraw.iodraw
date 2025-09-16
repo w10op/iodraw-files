@@ -45,8 +45,14 @@
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-11" value="i = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TJPQ_LDS9EI8Kej80wbc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TJPQ_LDS9EI8Kej80wbc-13" target="TJPQ_LDS9EI8Kej80wbc-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-13" value="i &amp;lt; 密码长度" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TJPQ_LDS9EI8Kej80wbc-15" value="字符类型判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="610" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
