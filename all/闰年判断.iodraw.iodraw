@@ -70,6 +70,9 @@
         <mxCell id="kD48WrxusOf_x1y213dF-18" value="年份能被100整除" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="690" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="kD48WrxusOf_x1y213dF-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
