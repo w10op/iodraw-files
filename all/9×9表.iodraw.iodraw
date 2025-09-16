@@ -10,11 +10,17 @@
         <mxCell id="CUXWgwBDTinpDRMtbgxE-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="240" y="20" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CUXWgwBDTinpDRMtbgxE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CUXWgwBDTinpDRMtbgxE-2" target="CUXWgwBDTinpDRMtbgxE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CUXWgwBDTinpDRMtbgxE-2" value="i=1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CUXWgwBDTinpDRMtbgxE-4" value="j&amp;lt;=i" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CUXWgwBDTinpDRMtbgxE-6" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
