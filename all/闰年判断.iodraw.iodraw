@@ -67,8 +67,10 @@
         <mxCell id="kD48WrxusOf_x1y213dF-15" value="是闰年" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kD48WrxusOf_x1y213dF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kD48WrxusOf_x1y213dF-18" target="kD48WrxusOf_x1y213dF-22">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kD48WrxusOf_x1y213dF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kD48WrxusOf_x1y213dF-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="730" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kD48WrxusOf_x1y213dF-24" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kD48WrxusOf_x1y213dF-23">
           <mxGeometry x="0.0286" relative="1" as="geometry">
@@ -86,9 +88,6 @@
         <mxCell id="kD48WrxusOf_x1y213dF-18" value="年份能被100整除" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="690" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kD48WrxusOf_x1y213dF-22" value="不是闰年" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="700" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="kD48WrxusOf_x1y213dF-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kD48WrxusOf_x1y213dF-25" target="kD48WrxusOf_x1y213dF-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -97,8 +96,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kD48WrxusOf_x1y213dF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kD48WrxusOf_x1y213dF-25" target="kD48WrxusOf_x1y213dF-22">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kD48WrxusOf_x1y213dF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kD48WrxusOf_x1y213dF-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kD48WrxusOf_x1y213dF-31" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kD48WrxusOf_x1y213dF-30">
+          <mxGeometry x="0.5619" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kD48WrxusOf_x1y213dF-25" value="年份能被4整除" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="830" width="80" height="80" as="geometry" />
