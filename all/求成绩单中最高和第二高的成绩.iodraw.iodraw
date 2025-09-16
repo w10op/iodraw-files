@@ -10,11 +10,17 @@
         <mxCell id="cT6iHajNOYMHa3VZemNE-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="220" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cT6iHajNOYMHa3VZemNE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cT6iHajNOYMHa3VZemNE-2" target="cT6iHajNOYMHa3VZemNE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cT6iHajNOYMHa3VZemNE-2" value="输入数据个数n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cT6iHajNOYMHa3VZemNE-4" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="cT6iHajNOYMHa3VZemNE-4" value="输入n个成绩" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cT6iHajNOYMHa3VZemNE-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
