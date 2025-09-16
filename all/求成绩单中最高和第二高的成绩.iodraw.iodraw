@@ -92,6 +92,11 @@
         <mxCell id="cT6iHajNOYMHa3VZemNE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cT6iHajNOYMHa3VZemNE-20" target="cT6iHajNOYMHa3VZemNE-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cT6iHajNOYMHa3VZemNE-38" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cT6iHajNOYMHa3VZemNE-24">
+          <mxGeometry x="-0.0857" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cT6iHajNOYMHa3VZemNE-20" value="score[i] &amp;gt; max2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="585" width="80" height="80" as="geometry" />
         </mxCell>
@@ -103,6 +108,9 @@
         </mxCell>
         <mxCell id="cT6iHajNOYMHa3VZemNE-25" value="i = i + 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cT6iHajNOYMHa3VZemNE-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cT6iHajNOYMHa3VZemNE-33" target="cT6iHajNOYMHa3VZemNE-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cT6iHajNOYMHa3VZemNE-33" value="输出max1和max2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1040" width="120" height="60" as="geometry" />
