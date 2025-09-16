@@ -24,13 +24,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TJPQ_LDS9EI8Kej80wbc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TJPQ_LDS9EI8Kej80wbc-4" target="TJPQ_LDS9EI8Kej80wbc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-4" value="密码长度&amp;gt;=6" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-6" value="密码无效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TJPQ_LDS9EI8Kej80wbc-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TJPQ_LDS9EI8Kej80wbc-9" value="初始化标志位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
