@@ -170,7 +170,7 @@
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-55" value="输出是" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TJPQ_LDS9EI8Kej80wbc-57" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="TJPQ_LDS9EI8Kej80wbc-57" value="输出结果: 否" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
