@@ -56,8 +56,8 @@
         <mxCell id="ZvXZJ58IeCuhC5l7wGIo-13" value="todayPages = todayPages + 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="680" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZvXZJ58IeCuhC5l7wGIo-16" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="790" width="120" height="60" as="geometry" />
+        <mxCell id="ZvXZJ58IeCuhC5l7wGIo-16" value="输出天数days" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
