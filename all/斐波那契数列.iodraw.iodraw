@@ -90,7 +90,7 @@
         <mxCell id="eaUMiYr-mmpjeIjE8xy5-32" value="i&amp;lt;=n" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="960" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eaUMiYr-mmpjeIjE8xy5-34" value="&lt;div&gt;current = prev1 + prev2;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; prev2 = prev1;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; prev1 = current;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eaUMiYr-mmpjeIjE8xy5-34" value="&lt;div&gt;current=prev1+prev2;&lt;/div&gt;&lt;div&gt;&amp;nbsp;prev2 = prev1;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;prev1 = current;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
