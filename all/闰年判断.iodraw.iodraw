@@ -16,7 +16,7 @@
         <mxCell id="kD48WrxusOf_x1y213dF-2" value="输入数据个数n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kD48WrxusOf_x1y213dF-4" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="kD48WrxusOf_x1y213dF-4" value="输入n个年份" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
