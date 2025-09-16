@@ -19,8 +19,11 @@
         <mxCell id="CUXWgwBDTinpDRMtbgxE-4" value="j&amp;lt;=i" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="230" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CUXWgwBDTinpDRMtbgxE-6" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="CUXWgwBDTinpDRMtbgxE-6" value="输出 i×j 结果" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CUXWgwBDTinpDRMtbgxE-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
