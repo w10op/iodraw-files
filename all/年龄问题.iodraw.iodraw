@@ -34,11 +34,22 @@
         <mxCell id="exNSRBjODs9grAadmeC5-8" value="检查10个数字是否包含0-9且不重复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="exNSRBjODs9grAadmeC5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="exNSRBjODs9grAadmeC5-10" target="exNSRBjODs9grAadmeC5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exNSRBjODs9grAadmeC5-14" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exNSRBjODs9grAadmeC5-13">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="exNSRBjODs9grAadmeC5-10" value="满足所有条件" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="exNSRBjODs9grAadmeC5-12" value="输出年龄" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exNSRBjODs9grAadmeC5-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
