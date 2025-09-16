@@ -33,11 +33,14 @@
         <mxCell id="ZvXZJ58IeCuhC5l7wGIo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZvXZJ58IeCuhC5l7wGIo-6" target="ZvXZJ58IeCuhC5l7wGIo-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="370" />
-              <mxPoint x="370" y="600" />
-              <mxPoint x="480" y="600" />
+              <mxPoint x="480" y="370" />
               <mxPoint x="480" y="820" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZvXZJ58IeCuhC5l7wGIo-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZvXZJ58IeCuhC5l7wGIo-17">
+          <mxGeometry x="-0.0167" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZvXZJ58IeCuhC5l7wGIo-6" value="pagesRead &amp;lt; n" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
