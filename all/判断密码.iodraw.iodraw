@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-18" value="是否大写字母" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="720" width="80" height="80" as="geometry" />
+          <mxGeometry x="90" y="720" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-20" value="设置大写标志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="850" width="120" height="60" as="geometry" />
