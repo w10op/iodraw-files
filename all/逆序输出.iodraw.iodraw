@@ -16,10 +16,13 @@
         <mxCell id="nFBrbS3thI8iU4djAStI-2" value="遍历输入十个整数number[]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nFBrbS3thI8iU4djAStI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nFBrbS3thI8iU4djAStI-4" target="nFBrbS3thI8iU4djAStI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nFBrbS3thI8iU4djAStI-4" value="num &amp;lt; 0 || num &amp;gt; 1000" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="210" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nFBrbS3thI8iU4djAStI-7" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="nFBrbS3thI8iU4djAStI-7" value="提示输入错误" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
