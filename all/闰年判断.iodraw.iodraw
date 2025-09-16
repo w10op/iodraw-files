@@ -42,6 +42,9 @@
         <mxCell id="kD48WrxusOf_x1y213dF-10" value="取出第i个年份" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kD48WrxusOf_x1y213dF-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
