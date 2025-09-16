@@ -149,8 +149,8 @@
         <mxCell id="eaUMiYr-mmpjeIjE8xy5-49" value="输出，" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eaUMiYr-mmpjeIjE8xy5-53" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1694" width="120" height="60" as="geometry" />
+        <mxCell id="eaUMiYr-mmpjeIjE8xy5-53" value="输出结果" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
