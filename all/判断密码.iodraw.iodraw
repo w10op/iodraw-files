@@ -68,7 +68,7 @@
           <mxGeometry x="150" y="720" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-20" value="设置大写标志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TJPQ_LDS9EI8Kej80wbc-21" target="TJPQ_LDS9EI8Kej80wbc-18">
           <mxGeometry relative="1" as="geometry">
@@ -93,10 +93,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-28" value="是否小写字母" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="760" width="80" height="80" as="geometry" />
+          <mxGeometry x="260" y="740" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TJPQ_LDS9EI8Kej80wbc-30" value="设置小写标志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
