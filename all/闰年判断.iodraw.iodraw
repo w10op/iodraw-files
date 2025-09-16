@@ -134,6 +134,9 @@
         <mxCell id="kD48WrxusOf_x1y213dF-39" value="输出否" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="980" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kD48WrxusOf_x1y213dF-41" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1070" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
