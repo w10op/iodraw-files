@@ -64,6 +64,9 @@
         <mxCell id="kD48WrxusOf_x1y213dF-13" value="年份能被400整除" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="560" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="kD48WrxusOf_x1y213dF-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kD48WrxusOf_x1y213dF-15" target="kD48WrxusOf_x1y213dF-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kD48WrxusOf_x1y213dF-15" value="是闰年" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="570" width="120" height="60" as="geometry" />
         </mxCell>
@@ -108,7 +111,7 @@
         <mxCell id="kD48WrxusOf_x1y213dF-32" value="不是闰年" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kD48WrxusOf_x1y213dF-37" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="kD48WrxusOf_x1y213dF-37" value="输出是" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
