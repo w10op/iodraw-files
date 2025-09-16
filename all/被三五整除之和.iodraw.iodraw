@@ -30,10 +30,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_3TBpt4WD9QnMzs-WSPs-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="_3TBpt4WD9QnMzs-WSPs-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_3TBpt4WD9QnMzs-WSPs-6" target="_3TBpt4WD9QnMzs-WSPs-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="310" as="sourcePoint" />
-            <mxPoint x="310" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="290" />
+              <mxPoint x="550" y="740" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_3TBpt4WD9QnMzs-WSPs-6" value="i &amp;lt;= n" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
