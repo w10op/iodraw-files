@@ -107,8 +107,8 @@
         <mxCell id="cT6iHajNOYMHa3VZemNE-33" value="输出max1和max2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cT6iHajNOYMHa3VZemNE-36" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1140" width="100" height="60" as="geometry" />
+        <mxCell id="cT6iHajNOYMHa3VZemNE-36" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1169" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
