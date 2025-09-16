@@ -59,6 +59,9 @@
         <mxCell id="cT6iHajNOYMHa3VZemNE-14" value="max2 = max1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="740" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cT6iHajNOYMHa3VZemNE-18" value="max1 = score[i]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
